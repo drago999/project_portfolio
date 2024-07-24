@@ -1,0 +1,3 @@
+﻿  dndStatRollerConsoleCommand.cpp
+G:\coding\personal projects\dndStatRollerConsoleCommand\dndStatRollerConsoleCommand.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dndStatRollerConsoleCommand.vcxproj -> G:\coding\personal projects\dndStatRollerConsoleCommand\x64\Debug\dndStatRollerConsoleCommand.exe
