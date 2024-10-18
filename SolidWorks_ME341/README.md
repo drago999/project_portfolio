@@ -4,3 +4,6 @@ Notably this is the only drawing that I rescued from my old computer (the mother
 I have the actual solidworks files but I no longer have the program since I am no longer a student and will not display those here.
 
 This drawing happens to be the piece that I spent the longest on due to its difficulty and I gained a reputation of being the "Hole Wizard" and the gratitude of my team members for talking this part instead of them.
+
+Interesting fact:
+This project was done in the COVID-19 Lockdowns so my team barely new each other and did the work remotely as we learned new technologies like VPN and Zoom in order to complete our work.
